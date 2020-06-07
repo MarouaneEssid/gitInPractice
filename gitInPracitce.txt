@@ -3,5 +3,6 @@
 Git in practice makes git in perfect !
 heh funny !
 == chapter 2
-// TODO: right chapter 2
+kill all lawyers !
+// TODO: funny nuff ?
 
