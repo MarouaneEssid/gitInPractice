@@ -1,4 +1,7 @@
 ** Git In Practice **
 == chapter 1
 Git in practice makes git in perfect !
-// TODO: is this funny nuff ?
+heh funny !
+== chapter 2
+// TODO: right chapter 2
+
