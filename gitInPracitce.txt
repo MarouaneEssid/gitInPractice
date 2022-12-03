@@ -1,8 +1,7 @@
 ** Git In Practice **
-== chapter 1
-Git in practice makes git in perfect !
-heh funny !
 == chapter 2
 kill all lawyers !
 == chapter 3
-// TODO: right chapter 3
+chapter 3 content
+== chapter 5
+the last chapter of gitInPractice
