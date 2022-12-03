@@ -5,4 +5,6 @@ heh funny !
 == chapter 2
 kill all lawyers !
 == chapter 3
-// TODO: right chapter 3
+implementation of chapter 3
+== chapter 4
+this is chapter 4
