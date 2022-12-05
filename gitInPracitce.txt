@@ -1,4 +1,6 @@
 ** Git In Practice **
+== chapter 1
+here is the first chapter
 == chapter 2
 kill all lawyers !
 == chapter 3
@@ -7,3 +9,5 @@ implementation of chapter 3
 this is chapter 4
 == chapter 5
 the last chapter of gitInPractice
+== chapter 6
+UAT chapter
