@@ -1,7 +1,4 @@
 ** Git In Practice **
-== chapter 1
-Git in practice makes git in perfect !
-heh funny !
 == chapter 2
 kill all lawyers !
 == chapter 3
