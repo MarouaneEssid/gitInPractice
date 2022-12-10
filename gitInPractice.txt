@@ -1,6 +1,9 @@
 ** Git In Practice **
-== chapter 2
-beat it beat it !
+== chapter 1
+Git in practice makes git in perfect !
+heh funny !
+== chapter 2 v2
+version 2 of chapter 2
 == chapter 3
 implementation of chapter 3
 == chapter 4

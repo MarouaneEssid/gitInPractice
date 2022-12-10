@@ -1,4 +1,3 @@
-my third practice file
-practice 2 file
+practice 2
 == chapter 1
 first chapter here we are
