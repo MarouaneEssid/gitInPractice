@@ -1,6 +1,6 @@
 ** Git In Practice **
 == chapter 2
-kill all lawyers !
+beat it beat it !
 == chapter 3
 implementation of chapter 3
 == chapter 4
