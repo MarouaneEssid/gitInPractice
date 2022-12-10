@@ -1,4 +1,4 @@
-** Practice 2 **
-practice file 2 after the first one gitInPractice.txt
+my third practice file
+practice 2 file
 == chapter 1
-// TODO: chapter descriptio here
+first chapter here we are
